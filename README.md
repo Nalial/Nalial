@@ -1,4 +1,6 @@
-# Wstęp
+# DiffServ
+
+Wstęp
 Ewolucja sieci IP w kierunku sieci wielo-usługowej (Multi-Service Network), czyli sieci umożliwiającej przekaz ruchu generowanego przez różne typy aplikacji (np. mowa, wideo) potrzebuje odpowiednich gwarancji dotyczących przekazu pakietów. Te gwarancje określają parametry jakościowe (Quality of Service - QoS). Dotyczą one charakterystyk opóźnień przekazu pakietów, dopuszczalnego poziomu strat pakietów czy też m.in. średniej szybkości przekazu pakietów. 
 Sieci klasy IP QoS dzielimy na: 
 określone gwarancje jakości przekazu pakietów-> strict-QoS
